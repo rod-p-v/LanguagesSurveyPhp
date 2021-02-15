@@ -13,7 +13,7 @@ class DB{
         $this->host     ='localhost:3307';
         $this->db       ='languagesurvey';
         $this->user     ='root';
-        $this->password ='12ab34cd56ef';
+        $this->password ='';
         $this->charset  ='utf8mb4';
     }
 
